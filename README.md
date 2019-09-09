@@ -1,2 +1,2 @@
 # WeatherMen
-Jaco Pastorius best project.
+Weather Report was Jaco Pastorius' best project.
